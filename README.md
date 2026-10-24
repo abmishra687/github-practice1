@@ -1,2 +1,14 @@
-# github-practice1
-My hands-on Git and GitHub learning project
+
+# My GitHub Practice Project
+
+I am learning Git and GitHub practically.
+
+## What I am learning
+
+- Repositories
+- Commits
+- Branches
+- Push and pull
+- Clone
+- Pull requests
+- Forks
