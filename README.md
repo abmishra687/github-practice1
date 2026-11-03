@@ -20,3 +20,4 @@ Added by Abhishek
 
 this is revision1
 this is revision2
+checking if rulset is enabled or not
